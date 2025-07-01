@@ -13,3 +13,9 @@ console.log("Assignment (+=):", c);
 
 c *= 2;  
 console.log("Assignment (*=):", c);
+
+console.log("Equal (==):", a == b);
+console.log("Strict Equal (===):", a === 10);
+console.log("Not Equal (!=):", a != b);
+console.log("Greater Than:", a > b);
+console.log("Less Than:", a < b);
