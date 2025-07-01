@@ -19,3 +19,7 @@ console.log("Strict Equal (===):", a === 10);
 console.log("Not Equal (!=):", a != b);
 console.log("Greater Than:", a > b);
 console.log("Less Than:", a < b);
+
+console.log("Type of a:", typeof a);
+console.log("Type of x:", typeof x);
+console.log("Type of 'Nouman':", typeof "Nouman");
